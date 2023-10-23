@@ -1,0 +1,28 @@
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\bin\Debug\net7.0\Lab_01.exe
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\bin\Debug\net7.0\Lab_01.deps.json
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\bin\Debug\net7.0\Lab_01.runtimeconfig.json
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\bin\Debug\net7.0\Lab_01.dll
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\bin\Debug\net7.0\Lab_01.pdb
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\obj\Debug\net7.0\Lab_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\obj\Debug\net7.0\Lab_01.AssemblyInfoInputs.cache
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\obj\Debug\net7.0\Lab_01.AssemblyInfo.cs
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\obj\Debug\net7.0\Lab_01.csproj.CoreCompileInputs.cache
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\obj\Debug\net7.0\Lab_01.dll
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\obj\Debug\net7.0\refint\Lab_01.dll
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\obj\Debug\net7.0\Lab_01.pdb
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\obj\Debug\net7.0\Lab_01.genruntimeconfig.cache
+C:\Users\AC66242\source\repos\Lab_01\Lab_01\obj\Debug\net7.0\ref\Lab_01.dll
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\bin\Debug\net7.0\Lab_01.exe
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\bin\Debug\net7.0\Lab_01.deps.json
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\bin\Debug\net7.0\Lab_01.runtimeconfig.json
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\bin\Debug\net7.0\Lab_01.dll
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\bin\Debug\net7.0\Lab_01.pdb
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\obj\Debug\net7.0\Lab_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\obj\Debug\net7.0\Lab_01.AssemblyInfoInputs.cache
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\obj\Debug\net7.0\Lab_01.AssemblyInfo.cs
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\obj\Debug\net7.0\Lab_01.csproj.CoreCompileInputs.cache
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\obj\Debug\net7.0\Lab_01.dll
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\obj\Debug\net7.0\refint\Lab_01.dll
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\obj\Debug\net7.0\Lab_01.pdb
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\obj\Debug\net7.0\Lab_01.genruntimeconfig.cache
+C:\Users\AC66242\Source\Repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab01\Lab_01\obj\Debug\net7.0\ref\Lab_01.dll
