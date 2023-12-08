@@ -20,12 +20,6 @@ namespace Lab03_Home
             this.Books = Books;
         }
 
-        public void View()
-        {
-            base.View();
-            ViewBook();
-        }
-
         public void ViewBook()
         {
             Console.WriteLine($"{FirstName} {LastName} przeczytał(a) następujące książki:");
@@ -33,6 +27,12 @@ namespace Lab03_Home
             {
                 Console.WriteLine(book.Title);
             }
+        }
+
+        public void View()
+        {
+            base.View();
+            ViewBook();
         }
 
     }

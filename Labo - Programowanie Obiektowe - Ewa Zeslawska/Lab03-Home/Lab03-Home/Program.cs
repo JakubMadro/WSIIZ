@@ -32,6 +32,9 @@ for (int i = 0; i < people.Length; i++)
     else
         readers[i].Books = new Book[] { books[randInt()], books[randInt()], books[randInt()] };
 }
+Person o = new Reader(people[0].FirstName, people[0].LastName, people[0].Age);
+o.View();
+
 
 foreach (var item in readers)
 {
