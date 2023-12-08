@@ -2,14 +2,15 @@
 using Lab03_Home;
 using System.Reflection.PortableExecutable;
 
-Person[] people = new Person[]
-{
-    new Person("Jan", "Nowak", 12),
-    new Person("Janina", "Kowlaska", 14),
-    new Person("Kacper", "Majka", 72),
-    new Person("Nikodem", "Wikotr", 62),
-    new Person("Jurek", "Kpaut", 53)
-};
+List<Person> people = new List<Person>();
+
+
+people.Add(new Person("Jan", "Nowak", 12));
+people.Add(new Person("Janina", "Kowlaska", 14));
+people.Add(new Person("Kacper", "Majka", 72));
+people.Add(new Person("Nikodem", "Wikotr", 62));
+people.Add(new Person("Jurek", "Kpaut", 53));
+
 
 Book[] books = new Book[]
 {
@@ -19,16 +20,16 @@ Book[] books = new Book[]
     new Book("Tytuł 4", people[3], new DateTime(2020,04,05))
 };
 
-Reviewer[] reviewers = new Reviewer[]
-{
-    new Reviewer("Bledi", "Boboci", 88),
-    new Reviewer("Luca", "Parmegiano", 76)
-};
+List<Reviewer> reviewers = new List<Reviewer>();
+reviewers.Add(new Reviewer("Bledi", "Boboci", 88));
+reviewers.Add(new Reviewer("Luca", "Parmegiano", 76));
 
-Reader[] readers = new Reader[people.Length];
-for (int i = 0; i < people.Length; i++)
+
+
+List<Reader> readers = new List<Reader>();
+for (int i = 0; i < people.Count; i++)
 {
-    readers[i] = new Reader(people[i].FirstName, people[i].LastName, people[i].Age);
+    readers.Add(new Reader(people[i].FirstName, people[i].LastName, people[i].Age));
     if (i == 0)
         readers[i].Books = new Book[] { books[randInt()] };
     else if (i == 1)
@@ -52,7 +53,7 @@ int randInt()
 };
 
 
-for (int i = 0; i < reviewers.Length; i++)
+for (int i = 0; i < reviewers.Count; i++)
 {
     reviewers[i].Books = new Book[] { books[randInt()], books[randInt()], books[randInt()] };
 };
@@ -75,3 +76,11 @@ foreach (var reviewer in reviewers)
 //{
 //    book.View();
 //}
+
+
+List<Person> Lista = people.Concat<Person>(readers).Concat<Person>(reviewers).ToList();
+
+foreach (var person in Lista)
+{
+    person.View();
+}
