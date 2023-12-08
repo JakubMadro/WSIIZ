@@ -19,7 +19,11 @@ Book[] books = new Book[]
     new Book("Tytuł 4", people[3], new DateTime(2020,04,05))
 };
 
-
+Reviewer[] reviewers = new Reviewer[]
+{
+    new Reviewer("Bledi", "Boboci", 88),
+    new Reviewer("Luca", "Parmegiano", 76)
+};
 
 Reader[] readers = new Reader[people.Length];
 for (int i = 0; i < people.Length; i++)
@@ -46,6 +50,18 @@ int randInt()
     Random random = new Random();
     return random.Next(books.Length);
 };
+
+
+for (int i = 0; i < reviewers.Length; i++)
+{
+    reviewers[i].Books = new Book[] { books[randInt()], books[randInt()], books[randInt()] };
+};
+
+foreach (var reviewer in reviewers)
+{
+    reviewer.ReviewBooks();
+};
+
 
 //foreach (Person person in people)
 //{

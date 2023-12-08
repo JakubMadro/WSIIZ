@@ -9,8 +9,8 @@ namespace Lab03_Home
     internal class Person
     {
         private string firstname;
-        string lastname;
-        int age;
+        private string lastname;
+        private int age;
 
         public string FirstName { get { return firstname; } set {  firstname = value; } }
         public string LastName { get { return lastname; } set {  lastname = value; } }
