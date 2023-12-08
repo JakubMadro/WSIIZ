@@ -1,0 +1,14 @@
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\obj\Debug\net7.0\Lab03-Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\obj\Debug\net7.0\Lab03-Home.AssemblyInfoInputs.cache
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\obj\Debug\net7.0\Lab03-Home.AssemblyInfo.cs
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\obj\Debug\net7.0\Lab03-Home.csproj.CoreCompileInputs.cache
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\bin\Debug\net7.0\Lab03-Home.exe
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\bin\Debug\net7.0\Lab03-Home.deps.json
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\bin\Debug\net7.0\Lab03-Home.runtimeconfig.json
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\bin\Debug\net7.0\Lab03-Home.dll
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\bin\Debug\net7.0\Lab03-Home.pdb
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\obj\Debug\net7.0\Lab03-Home.dll
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\obj\Debug\net7.0\refint\Lab03-Home.dll
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\obj\Debug\net7.0\Lab03-Home.pdb
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\obj\Debug\net7.0\Lab03-Home.genruntimeconfig.cache
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab03-Home\Lab03-Home\obj\Debug\net7.0\ref\Lab03-Home.dll
