@@ -8,9 +8,9 @@ namespace Lab03_Home
 {
     internal class Book
     {
-        private string title;
-        Person author;
-        DateTime datePublication;
+        protected private string title;
+        protected Person author;
+        protected DateTime datePublication;
 
         public string Title { get { return title; } set { } }
 
