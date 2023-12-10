@@ -1,0 +1,14 @@
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\bin\Debug\net7.0\Lab04_Zadanie2.exe
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\bin\Debug\net7.0\Lab04_Zadanie2.deps.json
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\bin\Debug\net7.0\Lab04_Zadanie2.runtimeconfig.json
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\bin\Debug\net7.0\Lab04_Zadanie2.dll
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\bin\Debug\net7.0\Lab04_Zadanie2.pdb
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\obj\Debug\net7.0\Lab04_Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\obj\Debug\net7.0\Lab04_Zadanie2.AssemblyInfoInputs.cache
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\obj\Debug\net7.0\Lab04_Zadanie2.AssemblyInfo.cs
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\obj\Debug\net7.0\Lab04_Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\obj\Debug\net7.0\Lab04_Zadanie2.dll
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\obj\Debug\net7.0\refint\Lab04_Zadanie2.dll
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\obj\Debug\net7.0\Lab04_Zadanie2.pdb
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\obj\Debug\net7.0\Lab04_Zadanie2.genruntimeconfig.cache
+C:\Users\AC66242\source\repos\JakubMadro\WSIIZ\Labo - Programowanie Obiektowe - Ewa Zeslawska\Lab04_Zadanie2\Lab04_Zadanie2\obj\Debug\net7.0\ref\Lab04_Zadanie2.dll
